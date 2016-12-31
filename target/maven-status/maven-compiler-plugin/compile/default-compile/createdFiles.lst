@@ -1,0 +1,5 @@
+hello\data\repositories\StopRepo.class
+hello\data\Stop.class
+hello\SpringMongoConfig.class
+hello\Application.class
+hello\controllers\StopCtrl.class

@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="gs-accessing-data-mongodb:war exploded">
+    <output-path>$PROJECT_DIR$/classes/artifacts/gs_accessing_data_mongodb_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="myway/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="myway" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
